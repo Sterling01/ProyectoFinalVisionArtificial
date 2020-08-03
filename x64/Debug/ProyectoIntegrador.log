@@ -1,0 +1,31 @@
+﻿  HuMoments.cpp
+d:\stali\documents\ups8\vision computador\practicas\proyecto2\proyectointegrador\proyectointegrador\humoments.cpp(200): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\stali\documents\ups8\vision computador\practicas\proyecto2\proyectointegrador\proyectointegrador\humoments.cpp(204): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\stali\documents\ups8\vision computador\practicas\proyecto2\proyectointegrador\proyectointegrador\humoments.cpp(208): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Principal.cpp
+  Generating Code...
+  ProyectoIntegrador.vcxproj -> D:\stali\Documents\UPS8\Vision Computador\Practicas\Proyecto2\ProyectoIntegrador\x64\Debug\ProyectoIntegrador.exe
